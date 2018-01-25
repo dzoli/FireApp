@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireApp</string>
+    <string name="Value">Value</string>
+    <string name="sign_out">Signout</string>
+    <string name="search">Search...</string>
+    <string name="send">Send</string>
+    <string name="sendMessage">Send</string>
+</resources>

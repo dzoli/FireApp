@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "182276621249",
+    "firebase_url": "https://fireapp-58d5d.firebaseio.com",
+    "project_id": "fireapp-58d5d",
+    "storage_bucket": "fireapp-58d5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182276621249:android:21fdf5ff050d9e30",
+        "android_client_info": {
+          "package_name": "android.dmi.pmf.novica.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182276621249-rnvptpq86fder6cta97j8inbj7rebf15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.dmi.pmf.novica.fireapp",
+            "certificate_hash": "91a7af222c2df3d018bdb6606fcdcaeae8bd47ba"
+          }
+        },
+        {
+          "client_id": "182276621249-opmd6ld5pavjvr2nhu5b2pv63rou6dg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGYv9qc_JwmnegIRtXMVNtZFc1Qb87Q3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182276621249-opmd6ld5pavjvr2nhu5b2pv63rou6dg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
